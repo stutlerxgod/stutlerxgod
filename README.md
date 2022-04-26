@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @stutlerxgod
-- 👀 I’m interested in codding
-- 🌱 I’m currently learning python
-- 📫 How to reach me: stutlerxgod@gmail.com
